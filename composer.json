@@ -1,0 +1,37 @@
+{
+  "name": "edofre/yii2-float-thead",
+  "description": "Yii2 wrapper for floatThead jQuery extension",
+  "require": {
+    "php": ">=5.5.0",
+    "yiisoft/yii2": "*",
+    "bower-asset/floatThead": "*"
+  },
+  "keywords": [
+    "float-thead",
+    "float",
+    "thead",
+  ],
+  "homepage": "https://github.com/edofre/yii2-float-thead",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/edofre/yii2-float-thead",
+    "issues": "https://github.com/edofre/yii2-float-thead/issues"
+  },
+  "authors": [
+    {
+      "name": "Edo Freriks",
+      "email": "edofre@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "edofre\\floatthead\\": ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
