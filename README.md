@@ -1,4 +1,4 @@
-# Yii2 fullcalendar scheduler component
+# Yii2 float thead component
 
 ## Installation
 
