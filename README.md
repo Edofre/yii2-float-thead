@@ -1,4 +1,4 @@
-# Yii2 fullcalendar scheduler component
+# Yii2 float thead component
 
 ## Installation
 
@@ -7,13 +7,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 To install, either run
 
 ```
-$ php composer.phar require edofre/yii2-float-thead "V1.0.1"
+$ php composer.phar require edofre/yii2-float-thead "V1.0.2"
 ```
 
 or add
 
 ```
-"edofre/yii2-float-thead": "V1.0.1"
+"edofre/yii2-float-thead": "V1.0.2"
 ```
 
 to the ```require``` section of your `composer.json` file.
