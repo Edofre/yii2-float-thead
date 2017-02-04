@@ -1,5 +1,11 @@
 # Yii2 float thead component
 
+[![Latest Stable Version](https://poser.pugx.org/edofre/yii2-float-thead/v/stable)](https://packagist.org/packages/edofre/yii2-float-thead)
+[![Total Downloads](https://poser.pugx.org/edofre/yii2-float-thead/downloads)](https://packagist.org/packages/edofre/yii2-float-thead)
+[![Latest Unstable Version](https://poser.pugx.org/edofre/yii2-float-thead/v/unstable)](https://packagist.org/packages/edofre/yii2-float-thead)
+[![License](https://poser.pugx.org/edofre/yii2-float-thead/license)](https://packagist.org/packages/edofre/yii2-float-thead)
+[![composer.lock](https://poser.pugx.org/edofre/yii2-float-thead/composerlock)](https://packagist.org/packages/edofre/yii2-float-thead)
+
 ## Installation
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
